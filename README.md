@@ -2,7 +2,9 @@
 
 BOT created with node.js.
                     
-COMANNDS:  Replies:    [bot will say a random answer].
+COMANNDS:  
+
+           Replies:    [bot will say a random answer].
         - como? (may vary according to number of question marks)
           
            Audios:    [bot will reproduce an audio].
