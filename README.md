@@ -15,6 +15,8 @@ COMANNDS:
         - miau?
         - berni?
         - gp?
+        - danza?
+        - 321?
 
            Gif:    [bot will send a gif according to the search word].
         - (Word to search in Tenor API) gif?
@@ -28,5 +30,5 @@ COMANNDS:
         - (msg a mandar) wpp?
         - call?
 
-Twilio API works fine, I just commented to leave positive balance on the app account.
+Twilio API works fine, I just commented to leave positive balance on the app account. Except for whatsapp, that its free.
 
